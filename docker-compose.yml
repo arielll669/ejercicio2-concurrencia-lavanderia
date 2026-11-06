@@ -1,0 +1,4 @@
+services:
+  lavanderia:
+    build: .
+    container_name: ejercicio2-concurrencia
